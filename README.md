@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NACHIKET-0308
 - 👀 I’m interested in Tech related stuff whatever it may be like coding , hacking , hardware, software , guibased , terminal based , etc
-- 🌱 I’m currently learning web development and web3
+- 🌱 I’m currently learning web 2.0 and web3.0
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: ...
