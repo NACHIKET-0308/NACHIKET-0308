@@ -2,9 +2,9 @@
 - 👀 I’m interested in Tech related stuff whatever it may be like coding , hacking , hardware, software , guibased , terminal based , etc
 - 🌱 I’m currently learning web 2.0 and web3.0
 - 💞️ I’m looking to collaborate on ....
-- 📫 How to reach me 
+- 📫 How to reach me  
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I WAS HERE A WHILE AGO
 
 <!---
 NACHIKET-0308/NACHIKET-0308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
